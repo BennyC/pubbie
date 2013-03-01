@@ -2,7 +2,7 @@
     "name": "pubbie",
     "description": "Pubbie is a basic Pub/Sub Library. Handles your basics such as subscribing, publishing, and unsubscribing events/tokens.",
     "keywords": ["pubsub"],
-    "version": "0.1.0",
+    "version": "1.0.0",
 
     "maintainers": [
         {
